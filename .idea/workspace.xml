@@ -2,37 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3d9ca0cf-d166-4831-8824-06d42946425b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App/Vendor/Image/ImageManager.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App/Vendor/Pheanstalk/Pheanstalk.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Core/Http/Session/SessionRedis.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resource/views/userCenter/qrCode.blade.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resource/views/userCenter/upload.blade.php" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Log/default_1712.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/Session/EasySwoole_6d40ec25931e286d7bc504a5335fc627" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Resource/images/a.png" afterPath="$PROJECT_DIR$/Resource/screen/a.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Resource/images/swoole.png" afterPath="$PROJECT_DIR$/Resource/screen/swoole.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/App/Controller/UserCenter/UserCenterController.php" afterPath="$PROJECT_DIR$/App/Controller/UserCenter/UserCenterController.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/App/Middleware/VerifyCsrfToken.php" afterPath="$PROJECT_DIR$/App/Middleware/VerifyCsrfToken.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/App/Router.php" afterPath="$PROJECT_DIR$/App/Router.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Conf/Config.php" afterPath="$PROJECT_DIR$/Conf/Config.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Conf/Event.php" afterPath="$PROJECT_DIR$/Conf/Event.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Core/Http/Session/Base.php" afterPath="$PROJECT_DIR$/Core/Http/Session/Base.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Core/Http/Session/Session.php" afterPath="$PROJECT_DIR$/Core/Http/Session/Session.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Log/error_1712.log" afterPath="$PROJECT_DIR$/Log/error_1712.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Log/swoole.log" afterPath="$PROJECT_DIR$/Log/swoole.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resource/views/app.blade.php" afterPath="$PROJECT_DIR$/Resource/views/app.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resource/views/userCenter/create.blade.php" afterPath="$PROJECT_DIR$/Resource/views/userCenter/create.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Temp/TplCache/764ab231add7c3b10f0f3e7d5caf6b1f70b5c807.php" afterPath="$PROJECT_DIR$/Temp/TplCache/764ab231add7c3b10f0f3e7d5caf6b1f70b5c807.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/composer.json" afterPath="$PROJECT_DIR$/composer.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/composer.lock" afterPath="$PROJECT_DIR$/composer.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/composer/autoload_classmap.php" afterPath="$PROJECT_DIR$/vendor/composer/autoload_classmap.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/composer/autoload_files.php" afterPath="$PROJECT_DIR$/vendor/composer/autoload_files.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/composer/autoload_namespaces.php" afterPath="$PROJECT_DIR$/vendor/composer/autoload_namespaces.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" afterPath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/composer/autoload_static.php" afterPath="$PROJECT_DIR$/vendor/composer/autoload_static.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/composer/installed.json" afterPath="$PROJECT_DIR$/vendor/composer/installed.json" />
+      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -41,15 +11,16 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" phpInterpreterId="942a253f-ef35-479d-9af8-40b93bf111c1" />
-  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+  </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="composer.json" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/composer.json">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="736">
-              <caret line="30" column="3" lean-forward="true" selection-start-line="30" selection-start-column="3" selection-end-line="30" selection-end-column="3" />
+            <state relative-caret-position="38">
+              <caret line="1" column="60" lean-forward="false" selection-start-line="1" selection-start-column="60" selection-end-line="1" selection-end-column="60" />
               <folding />
             </state>
           </provider>
@@ -124,7 +95,6 @@
         <option value="$PROJECT_DIR$/App/Traits/ValidatorTrait.php" />
         <option value="$PROJECT_DIR$/Resource/views/userCenter/create.blade.php" />
         <option value="$PROJECT_DIR$/App/Vendor/Redis/Cache.php" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/App/Vendor/Image/ImageManager.php" />
         <option value="$PROJECT_DIR$/App/RouterCopy.php" />
         <option value="$PROJECT_DIR$/Resource/views/userCenter/upload.balde.php" />
@@ -147,6 +117,7 @@
         <option value="$PROJECT_DIR$/Conf/Config.php" />
         <option value="$PROJECT_DIR$/Core/Http/Session/SessionRedis.php" />
         <option value="$PROJECT_DIR$/App/Middleware/VerifyCsrfToken.php" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -161,7 +132,49 @@
       <server host="easy-swoole.top" id="85428226-9181-46cf-b3cd-cd7738b8fd71" name="Demo" port="7777" />
     </servers>
   </component>
-  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP7" />
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP7">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/vendor/jenssegers/blade" />
+      <path value="$PROJECT_DIR$/vendor/khanamiryan/qrcode-detector-decoder" />
+      <path value="$PROJECT_DIR$/vendor/intervention/image" />
+      <path value="$PROJECT_DIR$/vendor/bacon/bacon-qr-code" />
+      <path value="$PROJECT_DIR$/vendor/illuminate/support" />
+      <path value="$PROJECT_DIR$/vendor/pda/pheanstalk" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/vendor/endroid/qrcode" />
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/illuminate/container" />
+      <path value="$PROJECT_DIR$/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/vendor/illuminate/pagination" />
+      <path value="$PROJECT_DIR$/vendor/myclabs/php-enum" />
+      <path value="$PROJECT_DIR$/vendor/illuminate/contracts" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/vendor/illuminate/redis" />
+      <path value="$PROJECT_DIR$/vendor/predis/predis" />
+      <path value="$PROJECT_DIR$/vendor/illuminate/filesystem" />
+      <path value="$PROJECT_DIR$/vendor/illuminate/database" />
+      <path value="$PROJECT_DIR$/vendor/illuminate/view" />
+      <path value="$PROJECT_DIR$/vendor/illuminate/cache" />
+      <path value="$PROJECT_DIR$/vendor/illuminate/translation" />
+      <path value="$PROJECT_DIR$/vendor/illuminate/events" />
+      <path value="$PROJECT_DIR$/vendor/illuminate/validation" />
+      <path value="$PROJECT_DIR$/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/vendor/symfony/property-access" />
+      <path value="$PROJECT_DIR$/vendor/symfony/options-resolver" />
+      <path value="$PROJECT_DIR$/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/vendor/symfony/inflector" />
+      <path value="$PROJECT_DIR$/vendor/eaglewu/swoole-ide-helper" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php70" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+    </include_path>
+  </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="4" />
     <option name="y" value="23" />
@@ -184,155 +197,25 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="swoole_framework" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="swoole_framework" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="swoole_framework" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="swoole_framework" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Conf" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="swoole_framework" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="swoole_framework" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="App" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="swoole_framework" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="swoole_framework" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="App" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Vendor" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="swoole_framework" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="swoole_framework" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="App" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Vendor" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Redis" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="swoole_framework" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="swoole_framework" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="App" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Traits" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="swoole_framework" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="swoole_framework" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="App" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Controller" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="swoole_framework" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="swoole_framework" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="App" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Controller" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="UserCenter" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
+          <expand>
+            <path>
+              <item name="swoole_framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="swoole_framework" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="editing.templates" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="js.eslint.eslintPackage" value="" />
-    <property name="JavaScriptPreferStrict" value="false" />
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="php.override.implement.member.chooser.php.doc" value="NONE" />
@@ -366,7 +249,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="PHP Web Application.Demo">
+  <component name="RunManager">
+    <configuration name="Demo" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" server_name="Demo" start_url="/UserCenter/UserCenterController/UserLists" />
     <configuration default="true" type="BashConfigurationType" factoryName="Bash">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="INTERPRETER_PATH" value="/bin/bash" />
@@ -419,15 +303,6 @@
     <configuration default="true" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application">
       <method />
     </configuration>
-    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
-      <node-interpreter>project</node-interpreter>
-      <node-options />
-      <gulpfile />
-      <tasks />
-      <arguments />
-      <envs />
-      <method />
-    </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
       <command value="run" />
       <scripts />
@@ -448,12 +323,14 @@
       <recursive>false</recursive>
       <method />
     </configuration>
-    <configuration default="false" name="Demo" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" server_name="Demo" start_url="/UserCenter/UserCenterController/UserLists">
-      <method />
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
     </configuration>
-    <list size="1">
-      <item index="0" class="java.lang.String" itemvalue="PHP Web Application.Demo" />
-    </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -503,18 +380,20 @@
       <workItem from="1515664024018" duration="412000" />
       <workItem from="1515742699535" duration="570000" />
       <workItem from="1515896419634" duration="25000" />
+      <workItem from="1517798625731" duration="23000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="111979000" />
+    <option name="totallyTimeSpent" value="112002000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="4" y="23" width="1436" height="877" extended-state="6" />
+    <frame x="4" y="23" width="1436" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -533,7 +412,7 @@
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="processedProjectFiles" value="true" />
+    <option name="version" value="1" />
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -545,7 +424,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Temp/Session/EasySwoole_0bd6cd7226705ccc954038532ed629ab" />
     <entry file="file://$PROJECT_DIR$/Temp/Session/EasySwoole__token" />
     <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_6.php">
       <provider selected="true" editor-type-id="text-editor">
@@ -853,24 +731,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="513">
           <caret line="45" column="26" lean-forward="false" selection-start-line="45" selection-start-column="26" selection-end-line="45" selection-end-column="26" />
-          <folding>
-            <marker date="1513782810106" expanded="false" signature="9:83" ph=" Created by PhpStorm. ..." />
-            <marker date="1513782810106" expanded="true" signature="109:445" ph="..." />
-            <marker date="1513782810106" expanded="true" signature="480:2649" ph="{...}" />
-            <marker date="1513782810106" expanded="true" signature="513:794" ph="{...}" />
-            <marker date="1513782810106" expanded="true" signature="827:1171" ph="{...}" />
-            <marker date="1513782810106" expanded="true" signature="1228:1295" ph="{...}" />
-            <marker date="1513782810106" expanded="true" signature="1341:1398" ph="{...}" />
-            <marker date="1513782810106" expanded="true" signature="1447:1507" ph="{...}" />
-            <marker date="1513782810106" expanded="true" signature="1570:1633" ph="{...}" />
-            <marker date="1513782810106" expanded="true" signature="1695:1757" ph="{...}" />
-            <marker date="1513782810106" expanded="true" signature="1819:1948" ph="{...}" />
-            <marker date="1513782810106" expanded="true" signature="2052:2114" ph="{...}" />
-            <marker date="1513782810106" expanded="true" signature="2177:2240" ph="{...}" />
-            <marker date="1513782810106" expanded="true" signature="2315:2371" ph="{...}" />
-            <marker date="1513782810106" expanded="true" signature="2437:2495" ph="{...}" />
-            <marker date="1513782810106" expanded="true" signature="2584:2647" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -892,56 +752,21 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
           <caret line="35" column="7" lean-forward="false" selection-start-line="35" selection-start-column="7" selection-end-line="35" selection-end-column="7" />
-          <folding>
-            <marker date="1513782651643" expanded="false" signature="49:347" ph="..." />
-            <marker date="1513782651643" expanded="true" signature="398:4907" ph="{...}" />
-            <marker date="1513782651643" expanded="true" signature="442:460" ph="..." />
-            <marker date="1513782651643" expanded="true" signature="493:533" ph="{...}" />
-            <marker date="1513782651643" expanded="true" signature="542:568" ph="获取用户信息(可选择分页) ..." />
-            <marker date="1513782651643" expanded="true" signature="605:721" ph="{...}" />
-            <marker date="1513782651643" expanded="true" signature="730:751" ph="显示添加用户界面 ..." />
-            <marker date="1513782651643" expanded="true" signature="788:842" ph="{...}" />
-            <marker date="1513782651643" expanded="true" signature="851:912" ph=" 添加用户 ..." />
-            <marker date="1513782651643" expanded="true" signature="951:2004" ph="{...}" />
-            <marker date="1513782651643" expanded="true" signature="1030:1138" ph="..." />
-            <marker date="1513782651643" expanded="true" signature="1230:1449" ph="..." />
-            <marker date="1513782651643" expanded="true" signature="1464:1692" ph="..." />
-            <marker date="1513782651643" expanded="true" signature="1486:1587" ph="..." />
-            <marker date="1513782651643" expanded="true" signature="1717:1844" ph="..." />
-            <marker date="1513782651643" expanded="true" signature="1869:1996" ph="..." />
-            <marker date="1513782651643" expanded="true" signature="2014:2055" ph=" 设置redis ..." />
-            <marker date="1513782651643" expanded="true" signature="2091:2313" ph="{...}" />
-            <marker date="1513782651643" expanded="true" signature="2322:2343" ph="显示上传图片界面 ..." />
-            <marker date="1513782651643" expanded="true" signature="2380:2434" ph="{...}" />
-            <marker date="1513782651643" expanded="true" signature="2442:2464" ph="..." />
-            <marker date="1513782651643" expanded="true" signature="2502:2833" ph="{...}" />
-            <marker date="1513782651643" expanded="true" signature="2841:2860" ph="..." />
-            <marker date="1513782651643" expanded="true" signature="2897:3429" ph="{...}" />
-            <marker date="1513782651643" expanded="true" signature="3012:3015" ph="..." />
-            <marker date="1513782651643" expanded="true" signature="3041:3043" ph="..." />
-            <marker date="1513782651643" expanded="true" signature="3083:3109" ph="..." />
-            <marker date="1513782651643" expanded="true" signature="3141:3146" ph="..." />
-            <marker date="1513782651643" expanded="true" signature="3181:3221" ph="..." />
-            <marker date="1513782651643" expanded="true" signature="3256:3302" ph="..." />
-            <marker date="1513782651643" expanded="true" signature="3437:3455" ph="..." />
-            <marker date="1513782651643" expanded="true" signature="3496:3691" ph="{...}" />
-            <marker date="1513782651643" expanded="true" signature="3699:3723" ph="..." />
-            <marker date="1513782651643" expanded="true" signature="3764:4033" ph="{...}" />
-            <marker date="1513782651643" expanded="true" signature="4084:4113" ph="..." />
-            <marker date="1513782651643" expanded="true" signature="4149:4399" ph="{...}" />
-            <marker date="1513782651643" expanded="true" signature="4407:4435" ph="..." />
-            <marker date="1513782651643" expanded="true" signature="4471:4759" ph="{...}" />
-            <marker date="1513782651643" expanded="true" signature="4612:4685" ph="..." />
-            <marker date="1513782651643" expanded="true" signature="4768:4785" ph="测试速度 ..." />
-            <marker date="1513782651643" expanded="true" signature="4821:4905" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/composer.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="736">
-          <caret line="30" column="3" lean-forward="true" selection-start-line="30" selection-start-column="3" selection-end-line="30" selection-end-column="3" />
+        <state relative-caret-position="711">
+          <caret line="30" column="3" lean-forward="false" selection-start-line="30" selection-start-column="3" selection-end-line="30" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="1" column="60" lean-forward="false" selection-start-line="1" selection-start-column="60" selection-end-line="1" selection-end-column="60" />
           <folding />
         </state>
       </provider>
