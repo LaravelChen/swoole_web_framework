@@ -1,0 +1,27 @@
+time : 18-01-12 15:40:39 message: default controller Index not implement in file /Users/apple/Code/Laravel-Extend/swoole_framework/Core/Http/Dispatcher.php line 145
+time : 18-01-12 15:40:52 message: hash_equals(): Expected known_string to be a string, null given in file /Users/apple/Code/Laravel-Extend/swoole_framework/App/Middleware/VerifyCsrfToken.php line 20
+time : 18-01-12 15:40:52 message: response has end in file /Users/apple/Code/Laravel-Extend/swoole_framework/Core/Http/Response.php line 100
+time : 18-01-12 15:41:14 message: default controller Index not implement in file /Users/apple/Code/Laravel-Extend/swoole_framework/Core/Http/Dispatcher.php line 145
+time : 18-01-12 15:41:33 message: default controller Index not implement in file /Users/apple/Code/Laravel-Extend/swoole_framework/Core/Http/Dispatcher.php line 145
+time : 18-01-12 15:41:40 message: default controller Index not implement in file /Users/apple/Code/Laravel-Extend/swoole_framework/Core/Http/Dispatcher.php line 145
+time : 18-01-12 15:41:41 message: default controller Index not implement in file /Users/apple/Code/Laravel-Extend/swoole_framework/Core/Http/Dispatcher.php line 145
+time : 18-01-12 15:41:41 message: default controller Index not implement in file /Users/apple/Code/Laravel-Extend/swoole_framework/Core/Http/Dispatcher.php line 145
+time : 18-01-12 15:41:41 message: default controller Index not implement in file /Users/apple/Code/Laravel-Extend/swoole_framework/Core/Http/Dispatcher.php line 145
+time : 18-01-12 15:41:41 message: default controller Index not implement in file /Users/apple/Code/Laravel-Extend/swoole_framework/Core/Http/Dispatcher.php line 145
+time : 18-01-12 15:41:42 message: default controller Index not implement in file /Users/apple/Code/Laravel-Extend/swoole_framework/Core/Http/Dispatcher.php line 145
+time : 18-01-12 15:42:14 message: default controller Index not implement in file /Users/apple/Code/Laravel-Extend/swoole_framework/Core/Http/Dispatcher.php line 145
+time : 18-01-12 15:42:41 message: default controller Index not implement in file /Users/apple/Code/Laravel-Extend/swoole_framework/Core/Http/Dispatcher.php line 145
+time : 18-01-12 15:43:03 message: default controller Index not implement in file /Users/apple/Code/Laravel-Extend/swoole_framework/Core/Http/Dispatcher.php line 145
+time : 18-01-12 15:43:15 message: default controller Index not implement in file /Users/apple/Code/Laravel-Extend/swoole_framework/Core/Http/Dispatcher.php line 145
+time : 18-01-12 15:43:19 message: default controller Index not implement in file /Users/apple/Code/Laravel-Extend/swoole_framework/Core/Http/Dispatcher.php line 145
+time : 18-01-12 15:43:21 message: default controller Index not implement in file /Users/apple/Code/Laravel-Extend/swoole_framework/Core/Http/Dispatcher.php line 145
+time : 18-01-12 15:43:45 message: default controller Index not implement in file /Users/apple/Code/Laravel-Extend/swoole_framework/Core/Http/Dispatcher.php line 145
+time : 18-01-12 15:43:51 message: default controller Index not implement in file /Users/apple/Code/Laravel-Extend/swoole_framework/Core/Http/Dispatcher.php line 145
+time : 18-01-12 15:44:12 message: default controller Index not implement in file /Users/apple/Code/Laravel-Extend/swoole_framework/Core/Http/Dispatcher.php line 145
+time : 18-01-12 15:47:46 message: hash_equals(): Expected known_string to be a string, null given in file /Users/apple/Code/Laravel-Extend/swoole_framework/App/Middleware/VerifyCsrfToken.php line 20
+time : 18-01-12 15:47:46 message: response has end in file /Users/apple/Code/Laravel-Extend/swoole_framework/Core/Http/Response.php line 100
+time : 18-01-12 15:48:02 message: hash_equals(): Expected known_string to be a string, null given in file /Users/apple/Code/Laravel-Extend/swoole_framework/App/Middleware/VerifyCsrfToken.php line 20
+time : 18-01-12 15:48:02 message: response has end in file /Users/apple/Code/Laravel-Extend/swoole_framework/Core/Http/Response.php line 100
+time : 18-01-12 15:52:05 message: response has end in file /Users/apple/Code/Laravel-Extend/swoole_framework/Core/Http/Response.php line 126
+time : 18-01-12 15:52:05 message: hash_equals(): Expected known_string to be a string, null given in file /Users/apple/Code/Laravel-Extend/swoole_framework/App/Middleware/VerifyCsrfToken.php line 20
+time : 18-01-12 15:52:05 message: response has end in file /Users/apple/Code/Laravel-Extend/swoole_framework/Core/Http/Response.php line 100
